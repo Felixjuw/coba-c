@@ -2,7 +2,7 @@
 #include<stdlib.h>
 int main(){
 	puts("Hello People");
-	puts("Sek tak pesek sek yo");
+	puts("Sek tak pes sek yo");
 	return 0;
 }
 
